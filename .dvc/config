@@ -1,0 +1,6 @@
+[core]
+    remote = azure-storage
+['remote "azure-storage"']
+    url = azure://dvcdemo/
+['remote "azure-storage-container"']
+    url = azure://https://devsandbox.blob.core.windows.net/dvcdemo
